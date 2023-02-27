@@ -1,0 +1,11 @@
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\bin\Debug\PaintProjectMahmoud.exe.config
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\bin\Debug\PaintProjectMahmoud.exe
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\bin\Debug\PaintProjectMahmoud.pdb
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.Properties.Resources.resources
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.exe
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.pdb
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.Panel.resources
+C:\Users\yasin\source\repos\PaintProjectMahmoud\PaintProjectMahmoud\obj\Debug\PaintProjectMahmoud.Resize.resources
